@@ -20,5 +20,10 @@
 ## Gallery
 <img src="https://github.com/user-attachments/assets/eeb8c957-fc6a-4d0d-ac59-37a26c268d44" width="500" />
 
+## Thanks to
+- [Rose Pine Theme]([url](https://rosepinetheme.com/))
+- [3DS Overlay]([url](https://ko-fi.com/s/fdce31a397)) for the image above
+- [Kame Editor]([url](https://gitlab.com/beelzy/kame-editor)) to make the theme
+
 ## Notes
 This is just Rosé Pine Dawn! But I would like to make the other variants at some point.
