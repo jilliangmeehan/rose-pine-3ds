@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for 3DS</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Follow [these instructions](https://wiki.hacks.guide/wiki/3DS:Custom_themes#tabber-tabpanel-Universal_Updater-0) to install Anemone3DS.
+2. Open your 3DS' SD card on a computer and drop this theme (as a .zip file) into the `Themes` folder.
+3. Put the SD card back in your 3DS and open the Anemone3DS app—you should see the `Rose` theme in the list to install!
 
 ## Gallery
 
