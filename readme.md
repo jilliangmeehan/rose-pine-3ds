@@ -18,7 +18,8 @@
 3. Put the SD card back in your 3DS and open the Anemone3DS app—you should see the `Rose` theme in the list to install!
 
 ## Gallery
-![3DS Theme from Rosé Pine Images (1)](https://github.com/user-attachments/assets/17ab0518-3e74-4240-b9e4-7439b54c3ca5)
-
 <img src="https://github.com/user-attachments/assets/cf860dd4-d005-4892-a1bc-73aa8210c7a1" width="300" />
 <img src="https://github.com/user-attachments/assets/49470aac-8a03-4933-8413-f60b4b2c6541" width="300" />
+
+## Notes
+This is just Rosé Pine Dawn! But I would like to make the other variants at some point.
